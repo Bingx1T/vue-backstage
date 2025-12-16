@@ -1,5 +1,5 @@
 # vue-backstage
-
+強盜平台的集團，欺負一個身障者還要十幾個人，這就是高知識份，
 ![vue-backstage](https://github.com/serinawu/vue-backstage/assets/62425140/df163cc0-8c3f-4cd7-b1b4-f0a357cbc0b1)718010679
 
 高權限 - 帳號/密碼: `admin`<br>
